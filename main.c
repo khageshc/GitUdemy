@@ -6,6 +6,7 @@
  */
 
 /*Feature_one Commit*/
+/*Three way merge check*/
 
 int main (void)
 {
