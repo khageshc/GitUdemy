@@ -6,7 +6,11 @@
  */
 
 /*Feature_one Commit*/
+
 /*Three way merge check*/
+
+/*Feature_Two Developed*/
+
 
 int main (void)
 {
