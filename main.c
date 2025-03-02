@@ -7,6 +7,7 @@
 
 /*Feature_one Commit*/
 /*Feature_Two Developed*/
+/*Three way merge check in Feature_Two Branch*/
 
 int main (void)
 {
