@@ -5,18 +5,7 @@
  *      Author: 703437
  */
 
-/*Feature_one Commit*/
-
-/*Three way merge check ABCD*/
-
-/*Three way merge check in Feature_One Branch*/
-
-
-/*Feature_Two Developed*/
-
-
-/*Three way merge check in Feature_Two Branch*/
-
+/*Feature_Three Commit*/
 
 
 int main (void)
